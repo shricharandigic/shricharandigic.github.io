@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+Welcome to the universe of an aspiring data scientist! I believe in the panache and efficacy of vivid storytelling and currently pondering upon solving the quandaries of cultural lag, misinformation and its societal impact through causal inference and data.
 
-You can use the [editor on GitHub](https://github.com/shricharandigic/shricharandigic.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My Data Structures Library in Python:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Data Science Repository:
 
-### Markdown
+Leet Code Profile: https://leetcode.com/shricharandigic/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Linkedin: https://www.linkedin.com/in/shricharan/
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Education:
+MS in Data Science (2022-Present)
+  Indiana University Bloomington
 
-- Bulleted
-- List
+B.Tech Information Technology (2012-16)
+  PSG College of Technology
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Work Experience:
+Network Consulting Engineer – Cisco Advanced Services (Aug 2016 to June 2018)
+Network Consulting Engineer, which primarily focuses on enabling the enterprise customers to pro-actively optimize their network (Aimed at 100% availability and functionality, with zero downtime) to achieve their business goals.
 
-[Link](url) and ![Image](src)
-```
+Software Engineer – Cisco MIG Team (June 2018 – July 2022)
+Software Engineer in Cisco Systems India Pvt. Ltd., under MIG Team which focuses on mass scale networks end to end, predominantly used in Service Provider environments. Working as a Software Engineer to maintain the integrity of the Cisco XR operating system across various platforms. Role includes Framing Test Plans for Network Protocols, Automation using Python, Data Preparation, Applied Data Analytics.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Conference Talks:
+How to Orchestrate 100K+ devices using LSA - https://www.ciscolive.com/on-demand/on-demand-library.html?search=lsa#/session/163605999715800172Wv
+  Cisco Live Barcelona 2020
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shricharandigic/shricharandigic.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Inquisitive | Behavioral Science | Data Science | Causal Inference | Public Speaker |
