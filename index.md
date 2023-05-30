@@ -1,4 +1,4 @@
-# Welcome to the universe of an aspiring data scientist!
+# From an aspiring data scientist!
 
 ## About me
 After gaining nearly 6 years of experience at Cisco Systems as both a Software Engineer and a Network Consulting Engineer, I made the decision to embark on a new career path as a Data Scientist. My previous roles have provided me with a solid foundation to comprehend the comprehensive operations of a company and equipped me with the technical acumen necessary to execute tasks efficiently. However, it is my deep-seated yearning to harness the power of data and artificial intelligence in order to enhance people's lives that has propelled me towards this field.
