@@ -1,14 +1,13 @@
 # Welcome to the universe of an aspiring data scientist!
 
-Have almost 6 years of experience in the Tech Industry with a sound background to understand the holistic business of a company better. Technically good enough to carry out the tasks and analytically smart to use data to make better decisions and at the same time acknowledge the fallacies of it. I believe in the panache and efficacy of vivid storytelling. I am a Graduate Student pursuing an MS in Data Science at Indiana University, Bloomington.
+## About me
+After gaining nearly 6 years of experience at Cisco Systems as both a Software Engineer and a Network Consulting Engineer, I made the decision to embark on a new career path as a Data Scientist. My previous roles have provided me with a solid foundation to comprehend the comprehensive operations of a company and equipped me with the technical acumen necessary to execute tasks efficiently. However, it is my deep-seated yearning to harness the power of data and artificial intelligence in order to enhance people's lives that has propelled me towards this field.
 
-- GitHub Repo: [shricharandigic](https://github.com/shricharandigic)
-- LeetCode Profile: [shricharandigic](https://leetcode.com/shricharandigic/)
-- LinkedIn: [Shricharan Baskaran](https://www.linkedin.com/in/shricharan/)
+I firmly believe in the captivating nature and effectiveness of compelling storytelling, and I consistently prioritize presenting information in an engaging manner. Currently, I am pursuing a Master's degree in Data Science at Indiana University, Bloomington, where I am further honing my skills and knowledge in this dynamic field.
 
 ## Education
 
-- Masters in Data Science, Indiana University, Bloomington – May 2024
+- Masters in Data Science, Indiana University, Bloomington – Aug 2022 to May 2024
   - Relevant courses: Advanced Database Concepts, Applied Machine Learning, Intro to Statistics, Computer Vision, Network Science, Exploratory Data Analysis
 - B.Tech Information Technology (2012-16)
   - PSG College of Technology
