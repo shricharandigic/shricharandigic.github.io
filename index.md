@@ -1,5 +1,5 @@
-**Welcome to the universe of an aspiring data scientist! 
-**
+**Welcome to the universe of an aspiring data scientist!**
+
 
 Have almost 6 years of experience in the Tech Industry with sound background to understand the holistic business of a company better. Technically good enough to carry out the tasks and analytically smart to use data to make better decisions and at the same time acknowledge the fallacies of it. I believe in the panache and efficacy of vivid storytelling. I am a Graduate Student pursuing MS in Data Science in Indiana University, Bloomington.
 
