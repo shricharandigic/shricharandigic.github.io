@@ -4,7 +4,7 @@ Have almost 6 years of experience in the Tech Industry with a sound background t
 
 - GitHub Repo: [shricharandigic](https://github.com/shricharandigic)
 - LeetCode Profile: [shricharandigic](https://leetcode.com/shricharandigic/)
-- LinkedIn: [shricharan](https://www.linkedin.com/in/shricharan/)
+- LinkedIn: [Shricharan Baskaran](https://www.linkedin.com/in/shricharan/)
 
 ## Education
 
