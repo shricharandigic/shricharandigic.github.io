@@ -1,2 +1,25 @@
-theme: jekyll-theme-minimal
-title: Shricharan Baskaran
+#theme: jekyll-theme-minimal
+#title: Shricharan Baskaran
+
+# Site settings
+title: Your Site Title
+description: Your Site Description
+
+# Theme settings
+remote_theme: "pages-themes/cayman@v0.3.0"  # Specify the Cayman theme version you want to use
+
+# Customize the Cayman theme
+header_pages:
+  - Home: "/"  # Customize the navigation links
+  - About: "/about"
+  - Projects: "/projects"
+  
+# Optional settings
+logo: /path/to/logo.png  # Path to your logo image
+favicon: /path/to/favicon.ico  # Path to your favicon
+
+# Custom CSS
+# You can add your custom CSS styles here if desired
+# Example:
+# custom_css:
+#   - /assets/css/custom.css
