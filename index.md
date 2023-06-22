@@ -43,4 +43,4 @@ Network Consulting Engineer – Cisco Advanced Services (Aug 2016 to June 2018):
 
 ## Micro Credentials
 
-- Google Data Analytics - Foundations: Data, Data, Everywhere
+- [Google Data Analytics - Foundations: Data, Data, Everywhere](https://coursera.org/share/5270b02095df53a53319080795a67293)
