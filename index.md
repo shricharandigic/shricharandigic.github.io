@@ -1,6 +1,9 @@
 # From an aspiring data scientist!
 
 ## About me
+Hello, I'm Shricharan, a seasoned professional with around 6 years of experience at Cisco. During my tenure, I excelled in the roles of Network Consulting and Software Engineering roles, contributing to better integrity of Cisco IOS XR operating system. Currently, I'm pursuing my master's degree in Data Science at Indiana University, driven by a passion for applying data-driven insights to complex challenges. With a solid background in computer networks and a keen interest in economics and finance, I'm well-positioned to deliver data-driven solutions that drive innovation and optimize performance. My unique blend of technical expertise, business acumen, and data science skills equips me to make a meaningful impact in this dynamic age of work.
+
+## My Journey so far
 After gaining nearly 6 years of experience at Cisco Systems as both a Software Engineer and a Network Consulting Engineer, I made the decision to embark on a new career path as a Data Scientist. My previous roles have provided me with a solid foundation to comprehend the comprehensive operations of a company and equipped me with the technical acumen necessary to execute tasks efficiently. However, it is my deep-seated yearning to harness the power of data and artificial intelligence in order to enhance people's lives that has propelled me towards this field.
 
 I firmly believe in the captivating nature and effectiveness of compelling storytelling, and I consistently prioritize presenting information in an engaging manner. Currently, I am pursuing a Master's degree in Data Science at Indiana University, Bloomington, where I am further honing my skills and knowledge in this dynamic field.
@@ -44,3 +47,4 @@ Network Consulting Engineer – Cisco Advanced Services (Aug 2016 to June 2018):
 ## Micro Credentials
 
 - [Google Data Analytics - Foundations: Data, Data, Everywhere](https://coursera.org/share/5270b02095df53a53319080795a67293)
+- Level 4 Persuasive Influencer (Toastmasters International)
