@@ -1,4 +1,4 @@
-# Data Science Graduate at Indiana University | Ex-Cisco | Looking for Full Time opportunities
+## Data Science Graduate at Indiana University | Ex-Cisco | Looking for Full Time opportunities
 
 ## About me
 Hello, I'm Shricharan, a seasoned professional with around 6 years of experience at Cisco. During my tenure, I excelled in the roles of Network Consulting and Software Engineering roles, contributing to better integrity of Cisco IOS XR operating system. Currently, I'm pursuing my master's degree in Data Science at Indiana University, driven by a passion for applying data-driven insights to complex challenges. With a solid background in computer networks and a keen interest in economics and finance, I'm well-positioned to deliver data-driven solutions that drive innovation and optimize performance. My unique blend of technical expertise, business acumen, and data science skills equips me to make a meaningful impact in this dynamic age of work.
